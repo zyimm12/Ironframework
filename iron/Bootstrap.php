@@ -18,3 +18,5 @@
  * =========================================================
  */
 namespace iron;
+
+defined('IRON_BEGIN_TIME') or define('IRON_BEGIN_TIME', microtime(true));

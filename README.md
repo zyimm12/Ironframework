@@ -1,3 +1,3 @@
 Ironframework 1.0 
 ===============
-> Ironframework的运行环境要求PHP5.4以上
+> Ironframework的运行环境要求PHP5.6
